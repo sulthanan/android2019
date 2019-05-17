@@ -17,4 +17,4 @@ Tugas membuat aplikasi android dengan menggunakan viewModel, RecyclerView (cardv
 * tugas dikumpulkan paling lambat 24 Mei 2019 (23.59)
 * dikumpulkan dalam bentuk file kompresi sourcecode project yang telah dilakukan "Clean Project" sebelumnya.
 * sertakan juga apk file yang dapat langsung diinstalasi
-
+* dikirim melalui email sebagai attachment atau link dari file sharing, dengan subject "Tugas Programming Mobile 2019"
